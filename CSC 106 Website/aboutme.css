@@ -1,0 +1,34 @@
+h1 {color: rgb(243, 227, 248);
+    
+}
+td{color:rgb(243, 227, 248);
+
+}
+body {background-image: url('savbackround.jpeg');
+}
+
+h2 {color: rgb(219, 206, 206);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+p {color: rgb(219, 206, 206);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#aboutme {
+
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#my-pic {
+    width:800px;
+    margin:auto;
+    color: rgb(219, 206, 206);
+    float:top;
+
+}
