@@ -17,3 +17,10 @@ body { background-color:rgb(219, 206, 206);
     margin-left:auto;
     margin-right:auto;
 }
+
+#jstable {
+
+    width:1200px;
+    margin:auto;
+    float:auto; 
+}
