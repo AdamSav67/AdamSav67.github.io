@@ -14,13 +14,12 @@ body { background-color:rgb(219, 206, 206);
 
     color: rgba(146, 13, 186, 0.901);
     width: 800px;
-    margin-left:auto;
-    margin-right:auto;
-}
-
-#jstable {
-
-    width:1200px;
     margin:auto;
-    float:auto; 
+
 }
+ #jstable {
+
+    width: 800px;
+    margin: auto;
+    float: auto;
+ }
